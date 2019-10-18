@@ -1,0 +1,6 @@
+siler_issue_214:
+  build: .
+  volumes:
+    - .:/var/www/html
+  ports:
+    - 8000:80

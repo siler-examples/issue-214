@@ -1,0 +1,16 @@
+{
+  "name": "siler-examples/issue-214",
+  "description": "Reproducing Issue #214",
+  "type": "project",
+  "require": {
+    "leocavalcante/siler": "dev-master"
+  },
+  "license": "UNLICENSE",
+  "authors": [
+    {
+      "name": "leocavalcante",
+      "email": "lc@leocavalcante.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
